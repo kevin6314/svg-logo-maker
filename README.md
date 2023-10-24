@@ -14,7 +14,7 @@ SO THAT I don't have to pay a graphic designer
 ```
 
 ## Try It
-
+- [Try It](https://github.com/kevin6314/svg-logo-maker/) 
 
 
 ## Acceptance Criteria
